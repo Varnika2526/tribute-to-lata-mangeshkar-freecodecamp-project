@@ -1,0 +1,81 @@
+#img-div{
+    max-width:100%;
+  
+  }
+  #image{
+    height:auto;
+    display:block;
+    max-width:100%;
+  }
+
+  .font{
+    
+    align-items:center;
+    font-size:24px;
+    text-align:center;
+    font-family:'Verdana, Geneva, Tahoma, sans-serif';
+
+
+  }
+  .image{
+    padding-top:5%;
+    padding-bottom:5%;
+    align-items:center;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+
+
+  }
+  .heading{
+    padding-top:5%;
+    align-items:center;
+    padding-left:40%;
+    background-color:lavender;
+    padding-bottom:5%;
+  }
+  .figcaption{
+    padding-top:5%;
+    text-align:center;
+  }
+  .tribute-info{
+    font-size:22px;
+    text-align:center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    background-color:lavender;
+    padding-top:3%;
+    padding-bottom:3%;
+    
+  }
+  .about-head{
+    text-align:center;
+    font-size:34px;
+    font-family:'Verdana, Geneva, Tahoma, sans-serif';
+    color:black bold;
+    padding-bottom:5%;
+  }
+  .achievements{
+    font-size:18x;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    background-color:lavender;
+    padding-top:3%;
+    padding-bottom:3%;
+  }
+  .directions{
+    font-size:18px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    background-color:lavender;
+  }
+  .musicals{
+    align-items:center;
+    padding-bottom:3%;
+    padding-top:3%;
+    color:black solid bold;
+    padding-top:3%;
+    padding-bottom:3%;
+  }
+  .tribute{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    font-size:18px;
+  }
+  
